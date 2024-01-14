@@ -5,7 +5,8 @@ CRUD de Cadastro de contatos utilizando ASP NET MVC, ENTITY FRAMEWORK e SQL Serv
 
 Ao cadastrar ele salva no Banco de Dados SQL Server e retorna uma mensagem de sucesso.
 
-![image](https://github.com/PedroHSilva1999/Controle-de-Contatos-com-ASP-NET-MVC-e-Entity-Framework/assets/88673304/a64962f6-ee66-4257-9839-fa23361beda1)
+![image](https://github.com/PedroHSilva1999/Controle-de-Contatos-com-ASP-NET-MVC-e-Entity-Framework/assets/88673304/c1dbafee-d964-4995-a090-c05c190c5c63)
+
 
 
 É possível editar o cadastro, ao atualizar as informações é realizado um UPDATE no Banco de Dados.
@@ -15,7 +16,8 @@ Ao cadastrar ele salva no Banco de Dados SQL Server e retorna uma mensagem de su
 
 Retorna com a messangem de sucesso e edita as informações na tabela.
 
-![image](https://github.com/PedroHSilva1999/Controle-de-Contatos-com-ASP-NET-MVC-e-Entity-Framework/assets/88673304/ac317d4f-5fcd-432c-b30e-9b54073c59fd)
+![image](https://github.com/PedroHSilva1999/Controle-de-Contatos-com-ASP-NET-MVC-e-Entity-Framework/assets/88673304/dbca3b9d-10c0-4a0a-bcc5-52a2fe1101af)
+
 
 
 É possível excluir o cadastro.
