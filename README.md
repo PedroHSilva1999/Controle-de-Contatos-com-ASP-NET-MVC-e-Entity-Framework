@@ -1,32 +1,37 @@
 CRUD de Cadastro de contatos utilizando ASP NET MVC, ENTITY FRAMEWORK e SQL Server.
 
 É possível cadastar um contato.
-![image](https://github.com/PedroHSilva1999/Controle-de-Contatos-com-ASP-NET-MVC-e-Entity-Framework/assets/88673304/6510ef8d-d6a1-4298-938f-f494082e4da4)
+![image](https://github.com/PedroHSilva1999/Controle-de-Contatos-com-ASP-NET-MVC-e-Entity-Framework/assets/88673304/e38d765e-4d66-4507-a2e6-2ce2b9896eba)
 
 Ao cadastrar ele salva no Banco de Dados SQL Server e retorna uma mensagem de sucesso.
 
-![image](https://github.com/PedroHSilva1999/Controle-de-Contatos-com-ASP-NET-MVC-e-Entity-Framework/assets/88673304/ea29cea8-db7e-478f-9f8b-f46dd6a60342)
+![image](https://github.com/PedroHSilva1999/Controle-de-Contatos-com-ASP-NET-MVC-e-Entity-Framework/assets/88673304/a64962f6-ee66-4257-9839-fa23361beda1)
+
 
 É possível editar o cadastro, ao atualizar as informações é realizado um UPDATE no Banco de Dados.
 
-![image](https://github.com/PedroHSilva1999/Controle-de-Contatos-com-ASP-NET-MVC-e-Entity-Framework/assets/88673304/5165ba4b-3a2f-4e46-aac7-068265e838b3)
+![image](https://github.com/PedroHSilva1999/Controle-de-Contatos-com-ASP-NET-MVC-e-Entity-Framework/assets/88673304/8f2a05a1-1397-47bf-a26f-338b34399de3)
 
-Retorna com a messangem de sucesso e edita na tabela.
 
-![image](https://github.com/PedroHSilva1999/Controle-de-Contatos-com-ASP-NET-MVC-e-Entity-Framework/assets/88673304/2c47896c-58a4-4ab5-b886-8f229e357a27)
+Retorna com a messangem de sucesso e edita as informações na tabela.
+
+![image](https://github.com/PedroHSilva1999/Controle-de-Contatos-com-ASP-NET-MVC-e-Entity-Framework/assets/88673304/ac317d4f-5fcd-432c-b30e-9b54073c59fd)
+
 
 É possível excluir o cadastro.
 
-![image](https://github.com/PedroHSilva1999/Controle-de-Contatos-com-ASP-NET-MVC-e-Entity-Framework/assets/88673304/0ef7b38f-5213-409b-b8c2-e8083a9ff41d)
+![image](https://github.com/PedroHSilva1999/Controle-de-Contatos-com-ASP-NET-MVC-e-Entity-Framework/assets/88673304/0fc0a16b-ba4c-4f08-8ce1-d8872ff7029b)
 
-Ao confirmar é excluido do Banco de Dados.
 
-![image](https://github.com/PedroHSilva1999/Controle-de-Contatos-com-ASP-NET-MVC-e-Entity-Framework/assets/88673304/f428d612-dfad-4859-855b-a79a98ad6340)
+Ao confirmar é excluido do Banco de Dados e na tabela.
+
+![image](https://github.com/PedroHSilva1999/Controle-de-Contatos-com-ASP-NET-MVC-e-Entity-Framework/assets/88673304/6fc09c7e-68b3-40a7-af8a-0404261c1a5a)
 
 
 Observação é necessário adicionar uma string de conexão.
 
-![image](https://github.com/PedroHSilva1999/Controle-de-Contatos-com-ASP-NET-MVC-e-Entity-Framework/assets/88673304/5ddabcec-b162-4f27-b43a-c18e0819096d)
+![image](https://github.com/PedroHSilva1999/Controle-de-Contatos-com-ASP-NET-MVC-e-Entity-Framework/assets/88673304/6a425628-517e-427a-bd1f-32500b883c95)
+
 
 
 
